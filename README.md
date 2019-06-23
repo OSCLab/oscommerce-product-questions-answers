@@ -100,4 +100,4 @@ Add
 
 5. Install module:
 
-- in menu Modules -> Content -> button Install Module -> select Questions & Answers To Product (group product_info_bottom) -> button Install Module
+- in menu "Modules" -> "Content" -> button "Install Module" -> select "Questions & Answers To Product" (group product_info_bottom) -> button "Install Module"
