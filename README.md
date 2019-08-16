@@ -1,5 +1,4 @@
-Product Questions & Answers 
-===========================
+# Product Questions & Answers - osCommerce add-on
 
 An absolutely simple way to establish reliable relations with your potential customers providing them the possibility to ask questions about any product in your osCommerce store.
 
@@ -13,8 +12,7 @@ Compatible With:
 * Official version: 2.3.4+ (catalog design is not supported)
 * Minimum PHP Version: 7.0
 
-Installation
-------------
+## Installation
 
 1. Backup all files and database!
 
