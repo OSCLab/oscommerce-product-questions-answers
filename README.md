@@ -24,18 +24,6 @@ Installation
 
 In admin/customers.php 
 
-Before
-
-```php
-         tep_db_query("delete from " . TABLE_ADDRESS_BOOK . " where customers_id = '" . (int)$customers_id . "'");
-```
-
-Add
-
-```php
-         tep_remove_customers_questions_answers($customers_id); // products questions answers add-on
-```
-
 After
 
 ```php
